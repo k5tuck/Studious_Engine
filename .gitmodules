@@ -1,0 +1,3 @@
+[submodule "Studious_Engine/Dependencies/spdlog"]
+	path = Studious_Engine/Dependencies/spdlog
+	url = https://github.com/gabime/spdlog.git
